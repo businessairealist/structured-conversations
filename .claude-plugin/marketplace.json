@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "structured-conversations",
-      "source": ".",
+      "source": "./plugins/structured-conversations",
       "description": "Structured Conversations is a plug-in inspired by the book Connecting Goals to Impacts and Outcomes: Harnessing Structured Conversations for Customer-Driven Value Delivery by Claude Hanhart and Rachel Collins. The plug-in helps product teams, agile teams, business analysts, product owners, scrum masters, and delivery leaders turn vague goals into structured conversations, clear product artifacts, measurable outcomes, and executable delivery work. It supports discovery, vision, strategy, story writing, refinement, delivery planning, quality management, experimentation, and process improvement. The plug-in is designed to help teams connect customer needs, business goals, delivery decisions, and measurable outcomes before investing time and effort into the wrong work.",
       "version": "3.0.3",
       "category": "product-management",
