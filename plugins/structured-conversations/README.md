@@ -7,9 +7,11 @@ Transform rough goals, notes, evidence, and prior work into guided conversations
 ### Claude.ai or Claude Cowork (recommended)
 
 1. Go to **Customize** (claude.ai/customize, or the Customize panel in the desktop app)
-2. Under **Personal plugins**, click the **+** button → **Add marketplace**
-3. In the **URL** field, enter: `businessairealist/structured-conversations`
-4. Click **Sync**, then **Install** on the **structured-conversations** plugin
+2. Under **Personal plugins**, click the **+** button → Create Plugin → **Add marketplace**
+3. Click **Add from a repository**
+4. In the **URL** field, enter: **`businessairealist/structured-conversations`**
+5. Select **→ Use businessairealist/structured-conversations** from the dropdown
+6. Click **Sync** to **install** the **structured-conversations** plugin
 
 The plugin's 95 skills will appear in your skill list immediately.
 
